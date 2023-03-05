@@ -35,7 +35,7 @@
 | 👽 | `:alien:` | 외부 API 변화로 인한 수정 | Update code due to external API changes. |
 | 🚚 | `:truck:` | 리소스 이동, 이름 변경 | Move or rename resources (e.g.: files paths routes). |
 | 📄 | `:page_facing_up:` | 라이센스 추가/수정 | Add or update license. |
-| 💡 | `:bulb:` | 주석 추가/수정 | Add or update comments in source code. |
+| 💡 | `:bulb:` | 주석 추가/수정 | Add or update comments in source code. |
 | 🍻 | `:beers:` | 술 취해서 쓴 코드 | Write code drunkenly. |
 | 🗃 | `:card_file_box:` | 데이버베이스 관련 수정 | Perform database related changes. |
 | 🔊 | `:loud_sound:` | 로그 추가/수정 | Add or update logs. |
